@@ -2,7 +2,7 @@
 
 int main () {
 
-printf("What did u sa 'bout my mom?");
+printf("What?");
 
 return 0;
 
